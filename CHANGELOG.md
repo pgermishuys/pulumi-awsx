@@ -3,6 +3,7 @@ CHANGELOG
 
 ## HEAD (Unreleased)
 * Add multi-lang component support scaffolding.
+* No longer skip TestDefaultVpc test as the issue (#784) has been resolved
 
 ## 0.40.0 (2022-03-24)
 * Compatibility with pulumi-aws v5.0.0
